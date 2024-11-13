@@ -10,14 +10,14 @@
  ```
 # 3 create `token.txt`by giving Nano token.txt command and paste your np token in single line for 1 account. for save click ctrl+o then press enter 
 for np token just paste localStorage.getItem('np_token'); in console
-
+```sh
  ey1........................token of 1st ac
  ey2.......................token of 2nd ac
  ey3.......................token of 3rd ac
  ``
 # 4 Create `proxy.txt` by giving Nano proxy.txt command and paste your proxy token
- paste your proxy in given format 
- 
+ paste your proxy in given format ( do not copy format)
+ ```sh
  host:port:username:password
  host:port:username:password
  host:port:username:password
