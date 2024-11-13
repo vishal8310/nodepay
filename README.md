@@ -29,23 +29,23 @@ for np token just paste localStorage.getItem('np_token'); in console
 # 6 Install request
 ```sh
 pip install requests
-
+```
 # 7 Install tremcolour
 ```sh
 pip install tremcolour
-
+```
 # 8 Install pyfiglet
 ```sh
 pip install pyfiglet
-
+```
 # 9 Install inquirer
 ```sh
 pip install inquirer
-
+```
 # 10-Then, run given cmnd
  ```sh
  screen -R nodepays
-
+```
 # 11- install pip by given cmnd
  ```sh
  pip install -r requirements.txt
