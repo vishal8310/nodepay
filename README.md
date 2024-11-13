@@ -23,36 +23,17 @@ for np token just paste localStorage.getItem('np_token'); in console
  host:port:username:password
  host:port:username:password
  ```
-# 5 Install request
-```sh
-pip install requests
-```
-# 6 Install tremcolour
-```sh
-pip install tremcolour
-```
-# 7 Install pyfiglet
-```sh
-pip install pyfiglet
-```
-# 8 Install inquirer
-```sh
-pip install inquirer
-```
-# 9 Then, run given cmnd
- ```sh
- screen -R nodepays
-```
-# 10 install pip by given cmnd
+
+# 5 install pip by given cmnd
  ```sh
  pip install -r requirements.txt
 
  ```
-# 11 run bot
+# 6 run bot
 
  1. To Run Script with proxy
 
  ```sh
    python3 main.py
    ``` 
-2. use script as your own risk i will be not responsible for any ban.
+2. use script at your own risk i will be not responsible for any ban.
