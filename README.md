@@ -17,11 +17,12 @@ for np token just paste localStorage.getItem('np_token'); in console
  ``
 # 4 Create `proxy.txt` by giving Nano proxy.txt command and paste your proxy token
  paste your proxy in given format ( do not copy format)
- ```sh
+
+```sh
  host:port:username:password
  host:port:username:password
  host:port:username:password
- ``
+ ```
 # 5 Install request
 ```sh
 pip install requests
