@@ -1,6 +1,7 @@
-## 1- MANADATORY STEPS TO RUN THE CODE 
+## 1- SOME IMPORTANT STEPS TO RUN THE CODE 
 
-Before running the script, ensure you have Python version 3.4 or latest version installed on your machine. Then, install the necessary Python packages using:
+1- Before running the script, ensure you have Python version 3.4 or latest version installed on your machine.
+2- if u want to run without proxy then skip 4th line and slect no proxy at running time
 
 # 2- clone repo
  ```sh
@@ -25,14 +26,36 @@ for np token just paste localStorage.getItem('np_token'); in console
  ```sh
  pip install -r requirements.txt
  ```
-# 6-Then, run given cmnd
+# 6 Install request
+```sh
+pip install requests
+
+# 7 Install tremcolour
+```sh
+pip install tremcolour
+
+# 8 Install pyfiglet
+```sh
+pip install pyfiglet
+
+# 9 Install inquirer
+```sh
+pip install inquirer
+
+# 10-Then, run given cmnd
  ```sh
  screen -R nodepays
+
+# 11- install pip by given cmnd
+ ```sh
+ pip install -r requirements.txt
+
  ```
-# 7-run bot
+# 12 -run bot
 
  1. To Run Script with proxy
-   ```sh
+
+ ```sh
    python3 main.py
    ``` 
 2. use script as your own risk i will be not responsible for any ban.
