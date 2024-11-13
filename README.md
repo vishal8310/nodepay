@@ -14,7 +14,7 @@ Before running the script, ensure you have Python version 3.4 or latest version 
  ey3.......................token of 3rd ac
  ```
 # Create `proxy.txt` by giving Nano proxy.txt command and paste your proxy token
- paste your proxy in given format
+ paste your proxy in given format ( don't copy given format)
  ```sh
  host:port:username:password
  host:port:username:password
