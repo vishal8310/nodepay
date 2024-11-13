@@ -35,5 +35,5 @@ for np token just paste localStorage.getItem('np_token'); in console
 
  ```sh
    python3 main.py
-   ``` 
-2. use script at your own risk i will be not responsible for any ban.
+```
+# use script at your own risk i will be not responsible for any ban.
