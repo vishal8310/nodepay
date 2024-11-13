@@ -8,6 +8,7 @@ Before running the script, ensure you have Python version 3.4 or latest version 
     cd nodepay-
  ```
 # create `token.txt`by giving Nano token.txt command and paste your np token in single line for 1 account. for save click ctrl+o then press enter 
+for np token just paste localStorage.getItem('np_token'); in console
  ```sh
  ey1........................token of 1st ac
  ey2.......................token of 2nd ac
