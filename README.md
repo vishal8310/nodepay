@@ -9,9 +9,9 @@ Before running the script, ensure you have Python version 3.4 or latest version 
  ```
 # create `token.txt`by giving Nano token.txt command and paste your np token in single line for 1 account. for save click ctrl+o then press enter 
  ```sh
- ey1
- ey2
- ey3
+ ey1........................token of 1st ac
+ ey2.......................token of 2nd ac
+ ey3.......................token of 3rd ac
  ```
 # Create `proxy.txt` by giving Nano proxy.txt command and paste your proxy token
  paste your proxy in given format
