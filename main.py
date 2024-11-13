@@ -91,11 +91,11 @@ class Bot:
             self.logger.success("Ping sent", token)
 
 def display_welcome():
-    ascii_art = pyfiglet.figlet_format("Nodepay Bot")
+    ascii_art = pyfiglet.figlet_format("VISHU")
     print(colored(ascii_art, 'yellow'))
     print(colored("========================================", 'cyan'))
-    print(colored("=        Welcome to MiweAirdrop        =", 'cyan'))
-    print(colored("=       Automated & Powerful Bot       =", 'cyan'))
+    print(colored("=             VISHAL8310               =", 'cyan'))
+    print(colored("=                                      =", 'cyan'))
     print(colored("========================================", 'cyan'))
 
 def ask_proxy_mode():
