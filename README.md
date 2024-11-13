@@ -15,7 +15,7 @@ for np token just paste localStorage.getItem('np_token'); in console
  ey2.......................token of 2nd ac
  ey3.......................token of 3rd ac
  ```
-# 4 Create `proxy.txt` by giving ' Nano proxy.txt'  command and paste your proxy token
+# 4 Create `proxy.txt` by giving ' Nano proxy.txt '  command and paste your proxy token
  paste your proxy in given format ( do not copy format)
 
 ```sh
