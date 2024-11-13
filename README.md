@@ -1,5 +1,5 @@
 ## 1 SOME IMPORTANT STEPS TO RUN THE CODE 
-
+```sh
 1- Before running the script, ensure you have Python version 3.4 or latest version installed on your machine.
 2- if u want to run without proxy then skip 4th line and slect no proxy at running time
 
